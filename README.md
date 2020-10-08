@@ -7,3 +7,7 @@ This repository is for showing how Git and GitHub werk
 Sample website with plenty of files for demos hehe
 
 Accenture Ph
+
+### Copyright
+ 
+ jfjfksdfks
